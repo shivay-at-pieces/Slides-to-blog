@@ -1,5 +1,3 @@
-# Slides-to-blog
-
 # Slide to Blog Post Converter
 
 This project is a Python-based tool that converts PowerPoint presentations into structured blog posts using AI-powered content generation.
