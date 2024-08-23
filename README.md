@@ -5,7 +5,7 @@ This project is a Python-based tool that converts PowerPoint presentations into 
 ## Features
 
 - Extracts text content from PowerPoint (.pptx) files
-- Utilizes GPT-4 to convert slide content into coherent blog posts
+- Utilizes GPT-4 and Pieces QGPT LLMs to convert slide content into coherent blog posts
 - Generates structured JSON output for further processing
 - Saves the generated blog post as a text file
 
